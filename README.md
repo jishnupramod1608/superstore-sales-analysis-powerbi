@@ -3,6 +3,20 @@
 ## 📌 Project Overview
 This project focuses on analyzing retail sales data using Power BI to uncover insights related to sales trends, product performance, regional distribution, and customer segments.
 
+## 📸 Dashboard Preview
+
+### Sales Overview
+![Sales Overview](dashboard_screenshots/sales_overview.png)
+
+### Product Analysis
+![Product Analysis](dashboard_screenshots/product_analysis.png)
+
+### Regional Analysis
+![Regional Analysis](dashboard_screenshots/regional_analysis.png)
+
+### Customer Segment Analysis
+![Customer Segment Analysis](dashboard_screenshots/customer_segment_analysis.png)
+
 ## 🧰 Tools & Technologies
 - Power BI
 - Power Query
