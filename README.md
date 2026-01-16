@@ -6,16 +6,16 @@ This project focuses on analyzing retail sales data using Power BI to uncover in
 ## 📸 Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](dashboard_screenshots/sales_overview.png)
+![Sales Overview](dashboard_screenshots/Sales_Overview.png)
 
 ### Product Analysis
-![Product Analysis](dashboard_screenshots/product_analysis.png)
+![Product Analysis](dashboard_screenshots/Product_Analysis.png)
 
 ### Regional Analysis
-![Regional Analysis](dashboard_screenshots/regional_analysis.png)
+![Regional Analysis](dashboard_screenshots/Regional_Analysis.png)
 
 ### Customer Segment Analysis
-![Customer Segment Analysis](dashboard_screenshots/customer_segment_analysis.png)
+![Customer Segment Analysis](dashboard_screenshots/Customer_Segment_Analysis.png)
 
 ## 🧰 Tools & Technologies
 - Power BI
