@@ -36,7 +36,7 @@ This project focuses on analyzing retail sales data using Power BI to uncover in
 - Consumer segment contributes the highest overall sales volume, while Corporate customers have higher average order value.
 
 ## 🌐 Live Dashboard
-👉 [View Live Power BI Dashboard](PASTE_YOUR_POWER_BI_LINK_HERE)
+👉 [View Live Power BI Dashboard](https://app.powerbi.com/groups/me/reports/caa3738f-f348-45a7-993e-09ae988284de/ebb86af159dac6c8a7a2?experience=power-bi)
 
 ## 📁 Files Included
 - `.pbix` file containing the Power BI report
